@@ -28,5 +28,5 @@ This project is a React application that uses the FakeStore API to perform CRUD 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/JRobinson999/fakestore-app1.git
+git clone https://github.com/JRobinson999/firebase-react-ecommerce-app.git
 ```
